@@ -1,7 +1,3 @@
-// Escolha a foto que será exibida
-
-const fotoAtual = "imagens/foto1.jpg";
-
-// Não mexa abaixo desta linha
+// Não altere este arquivo
 
 document.getElementById("foto").src = fotoAtual;
