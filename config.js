@@ -1,3 +1,3 @@
 // Escolha qual foto será exibida
 
-const fotoAtual = "foto1.jpg";
+const fotoAtual = "Imagens/foto1.jpg";
